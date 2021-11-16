@@ -4,11 +4,11 @@
 <br>
 -- 💼 Trabajando en empresa de informática Good Game. (Asesoramiento, ventas online, atención al publico)
 <br>
--- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS, Bootstrap, jQuery. jQuery
+-- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS, Bootstrap, Typescript. 
 <br>
--- Metas a corto plazo: aprender a fondo frontend.
+-- Metas a corto plazo: aprender frontend.
 <br>
--- Metas a largo plazo: Fullstack JS Developer.
+-- Metas a largo plazo: Fullstack JS Developer y algo de UX/UI.
 
 
 ### Redes/Medios de contacto:
