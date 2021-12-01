@@ -1,6 +1,6 @@
 ### Hola! Soy Tobias Irastorza. 
 
-## Actualmente estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en primer año.
+## Actualmente estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
 <br>
 -- 💼 Trabajando en empresa de informática Good Game. (Asesoramiento, ventas online, atención al publico)
 <br>
