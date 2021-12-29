@@ -8,7 +8,7 @@
 <br>
 -- Metas a corto plazo: aprender frontend.
 <br>
--- Metas a largo plazo: Fullstack JS Developer y UX/UI designer.
+-- Metas a largo plazo: React Developer.
 
 
 ### Redes/Medios de contacto:
