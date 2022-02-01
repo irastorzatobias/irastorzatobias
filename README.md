@@ -2,8 +2,6 @@
 
 ## Actualmente estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
 <br>
--- 💼 Trabajando en empresa de informática Good Game. (Asesoramiento, ventas online, atención al publico)
-<br>
 -- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS, Bootstrap, Typescript. 
 <br>
 -- Metas a corto plazo: aprender frontend.
