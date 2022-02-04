@@ -2,11 +2,11 @@
 
 ## Actualmente estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
 <br>
--- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS, Bootstrap, Typescript. 
+-- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS. 
 <br>
 -- Metas a corto plazo: aprender frontend.
 <br>
--- Metas a largo plazo: React Developer.
+-- Metas a largo plazo: Fullstack Developer.
 
 
 ### Redes/Medios de contacto:
