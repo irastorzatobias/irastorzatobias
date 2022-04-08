@@ -5,7 +5,37 @@
 -- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS. 
 <br>
 -- Metas a largo plazo: Fullstack Developer.
-
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+ </tr>
+</table>
 
 ### Redes/Medios de contacto:
 
