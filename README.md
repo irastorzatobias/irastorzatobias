@@ -5,6 +5,9 @@
 -- 📈 Actualmente aprendiendo un poco de todo, conocimientos básicos en Python, JS, HTML, CSS. 
 <br>
 -- Metas a largo plazo: Fullstack Developer.
+
+## Tecnologías
+<br>
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -36,6 +39,7 @@
     </td>
  </tr>
 </table>
+<br>
 
 ### Redes/Medios de contacto:
 
