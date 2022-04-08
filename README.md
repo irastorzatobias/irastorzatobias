@@ -6,7 +6,7 @@
 <br>
 -- Metas a largo plazo: Fullstack Developer.
 
-## Tecnologías
+## 🔧 Tecnologías
 <br>
 <table>
   <tr>
@@ -42,9 +42,9 @@
 <br>
 
 ### Redes/Medios de contacto:
-
+  <div style:"display: flex; flex-direction:row;">
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/irastorzatobias)  
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobias-irastorza-504bbb18b/) 
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/t.irastorza) 
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tobiasirastorza) 
-
+</div>
