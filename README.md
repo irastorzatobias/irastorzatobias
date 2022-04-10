@@ -1,4 +1,13 @@
 ### Hola! Soy Tobias Irastorza. 
+<a href="https://www.instagram.com/t.irastorza/">
+  <img align="left" alt="Tobias Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/tobiasirastorza">
+  <img align="left" alt="Tobias | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tobias-irastorza-504bbb18b/">
+  <img align="left" alt="Tobias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ## Estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
 <br>
@@ -39,9 +48,3 @@
  </tr>
 </table>
 <br>
-
-### Redes/Medios de contacto:
- - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/irastorzatobias)  
- - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobias-irastorza-504bbb18b/) 
- - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/t.irastorza) 
- - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tobiasirastorza) 
