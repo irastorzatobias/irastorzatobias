@@ -9,6 +9,8 @@
   <img align="left" alt="Tobias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br>
+
 ## Estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
 <br>
 -- 📈 Aprendiendo un poco de todo, prefencia frontend. 
