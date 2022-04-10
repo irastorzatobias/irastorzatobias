@@ -1,4 +1,5 @@
 ### Hola! Soy Tobias Irastorza. 
+
 <a href="https://www.instagram.com/t.irastorza/">
   <img align="left" alt="Tobias Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -8,7 +9,6 @@
 <a href="https://www.linkedin.com/in/tobias-irastorza-504bbb18b/">
   <img align="left" alt="Tobias LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br>
 
 ## Estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
