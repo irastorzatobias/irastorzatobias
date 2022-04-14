@@ -11,9 +11,9 @@
 </a>
 <br>
 
-## Estudiante de la carrera de desarrollo de software del ITEC (Instituto Tecnológico Río Cuarto) en segundo año.
+## Estudiante desarrollo de software, ITEC (Instituto Tecnológico Río Cuarto).
 <br>
--- 📈 Aprendiendo un poco de todo, prefencia frontend. 
+-- 📈 Me encuentro en segundo año, aprendiendo desarrollo web y desarrollo de software en general. Actualmente me inclino por el frontend, pero mi meta a largo plazo sería ser un fullstack developer. Sin preferencias por lenguajes, me gustan los desafios y adaptarme lo que se me presente.
 <br>
 
 ## 🔧 Tecnologías
