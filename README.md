@@ -59,8 +59,7 @@
       />
       <br /><strong>Vue.js</strong>
     </td>
-    </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"
         width="48"
@@ -69,8 +68,7 @@
       />
       <br /><strong>PHP</strong>
     </td>
-    </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png"
         width="48"
@@ -78,6 +76,15 @@
         alt="CSS3"
       />
       <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>Python</strong>
     </td>
  </tr>
 </table>
