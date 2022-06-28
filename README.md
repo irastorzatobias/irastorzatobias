@@ -77,7 +77,7 @@
         height="48"
         alt="CSS3"
       />
-      <br /><strong>PHP</strong>
+      <br /><strong>Jest</strong>
     </td>
  </tr>
 </table>
