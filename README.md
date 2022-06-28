@@ -43,6 +43,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>Vue.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
