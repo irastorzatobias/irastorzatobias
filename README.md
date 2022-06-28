@@ -43,6 +43,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
         width="48"
         height="48"
@@ -50,14 +59,25 @@
       />
       <br /><strong>Vue.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    </td>
+        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="CSS3"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>PHP</strong>
+    </td>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>PHP</strong>
     </td>
  </tr>
 </table>
