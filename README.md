@@ -55,7 +55,7 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="Vue.js"
       />
       <br /><strong>Vue.js</strong>
     </td>
@@ -64,7 +64,7 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="PHP"
       />
       <br /><strong>PHP</strong>
     </td>
@@ -73,7 +73,7 @@
         src="[https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png](https://nx.dev/documentation/shared/jest-logo.png)"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="JEST"
       />
       <br /><strong>Jest</strong>
     </td>
@@ -82,7 +82,7 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="PYTHON"
       />
       <br /><strong>Python</strong>
     </td>
