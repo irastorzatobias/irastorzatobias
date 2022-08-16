@@ -70,7 +70,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="[https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png](https://nx.dev/documentation/shared/jest-logo.png)"
+        src="https://nx.dev/documentation/shared/jest-logo.png"
         width="48"
         height="48"
         alt="JEST"
