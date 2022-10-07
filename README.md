@@ -61,7 +61,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png](https://camo.githubusercontent.com/37368c07ba573d5b2ecc8b6b724e847541a281c0fc135ee41fdd4aae61cda243/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f5461696c77696e645f4353535f4c6f676f2e737667)"
+        src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"
         width="48"
         height="48"
         alt="Tailwind"
