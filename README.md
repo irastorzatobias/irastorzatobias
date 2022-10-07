@@ -70,7 +70,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://nx.dev/documentation/shared/jest-logo.png"
+        src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"
         width="48"
         height="48"
         alt="JEST"
