@@ -12,7 +12,7 @@
 <br>
 
 <br>
-<b> - Estudiante desarrollo de software, ITEC (Instituto Tecnológico Río Cuarto). </b>
+<b> Estudiante desarrollo de software, ITEC (Instituto Tecnológico Río Cuarto). </b>
 <br>
 
 <br>
