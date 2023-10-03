@@ -36,9 +36,6 @@ My name is Tobias Irastorza. Software development student (3rd year) at ITEC Rio
 &nbsp;
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][learning_now_anchor]
-&nbsp;
-
 
 ## 👾  What I am interested in learning at some point
 
@@ -51,6 +48,10 @@ My name is Tobias Irastorza. Software development student (3rd year) at ITEC Rio
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][learning_next_anchor]
+&nbsp;
+
 
 ## 🔍  Where to find me
 
