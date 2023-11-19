@@ -1,6 +1,6 @@
 # Hi !
 
-My name is Tobias Irastorza. Software development student (3rd year) at ITEC Rio Cuarto, junior developer in PicallEx. 
+My name is Tobias Irastorza. Software development technician, junior developer in PicallEx. 
 
 ## 🛠  Technologies and tools
 
