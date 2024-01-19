@@ -1,6 +1,6 @@
 # Hi !
 
-My name is Tobias Irastorza. Software development technician, junior developer in PicallEx. 
+My name is Tobias Irastorza. Software development technician, junior mobile developer at PicallEx. 
 
 ## 🛠  Technologies and tools
 
