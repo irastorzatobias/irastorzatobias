@@ -37,3 +37,5 @@ My name is Tobias Irastorza. Software development technician, junior mobile deve
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/649b9df9d99c9d67319bc6b4?variant=dark" alt="roadmap.sh"/></a>
