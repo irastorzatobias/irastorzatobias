@@ -1,8 +1,6 @@
 # Hi !
 
-My name is Tobias Irastorza. Software development technician, junior developer at PicallEx. 
-
-## 🔍  Where to find me
+Mobile-focused Full Stack Engineer specializing in crafting effective and minimalist solutions.
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/tobias-irastorza-504bbb18b/)
 
